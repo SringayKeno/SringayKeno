@@ -15,7 +15,7 @@ https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoCol
 https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
-- 🏘️ I’m currently working on a machine learning project to predict housing values in Sacramento Couny California
+ 🏘️ I’m currently working on a machine learning project to predict housing values in Sacramento Couny California
 - 💪 I’m currently learning javascript and SARMIMA algorithm
 - 👯 I’m looking to collaborate on data projects
 - 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/ryan-koenigs/)
