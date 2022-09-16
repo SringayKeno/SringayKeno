@@ -30,11 +30,11 @@ Frameworks and Libraries
 
  IDE
  
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/Jupyter-CB4335.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/Visual_Studio_Code-A93226?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/Colab-78281F?style=for-the-badge&logo=googlecolab&color=78281F" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/VIM-641E16.svg?&style=for-the-badge&logo=vim&logoColor=white" style="vertical-align:top; margin:3px">
 
 Database 
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/MySQL-2E86C1?style=for-the-badge&logo=mysql&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/PostgreSQL-2471A3?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align:top; margin:3px"><img src="https://img.shields.io/badge/MongoDB-1B4F72?style=for-the-badge&logo=mongodb&logoColor=white" style="vertical-align:top; margin:3px">
 
 Analytics
 
@@ -48,5 +48,5 @@ Analytics
 
 Terminal
 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/GIT-7D3C98?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:3px">
  
