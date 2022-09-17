@@ -11,7 +11,7 @@
 
 - ##### [Housing Value Prediction with Random Forest Regressor](https://github.com/SringayKeno/Real_Estate). I collaborated with several others on a similar project here in Github. This project additionally looked at what features were important in predicting home values.
 
-- ##### Another project using javascript, json and css, called [Earthquakes in the Last_7_Days](https://github.com/SringayKeno/Earthquakes_Last_7_Days) can be found here in Github. The live map showing results can be found [here on a github io page.](https://sringaykeno.github.io/Earthquakes_Last_7_Days/) 
+- ##### Another project using javascript, json and css, called [Earthquakes in the Last 7 Days](https://github.com/SringayKeno/Earthquakes_Last_7_Days) can be found here in Github. The live map showing results can be found [here on a github io page.](https://sringaykeno.github.io/Earthquakes_Last_7_Days/) 
 
 - ##### Other project work can be seen [here in Github](https://github.com/SringayKeno?tab=repositories)
 <br/>
