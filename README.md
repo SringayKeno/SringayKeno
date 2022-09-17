@@ -5,10 +5,7 @@
 ### Hi, My name is Ryan Koenigs. I am a Data Analyst.
 
 
-
-### Current Project
-
-##### [Forecasting Home Prices in Sacramento County](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county). I currently am working on a machine learning project that is taking a comprehensive look at Sacramento County, California home values. I'm first identifying the top 5 zip codes that are best for investment in each of the 8 housing categories (condos, 2-bedroom, mid-priced homes, etc.) and then forecasting the home values in those top zip codes for the next 3 years. The SARIMA algorithm is doing the heavy lifting for this project. 
+##### I currently am working on a machine learning project that is taking a comprehensive look at Sacramento County, California home values. I'm first identifying the top 5 zip codes that are best for investment in each of the 8 housing categories (condos, 2-bedroom, mid-priced homes, etc.) and then forecasting the home values in those top zip codes for the next 3 years. The SARIMA algorithm is doing the heavy lifting for this project. The project,  [Forecasting Home Prices in Sacramento County](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can be found in link.
 
 ### Other Projects
 
@@ -16,7 +13,7 @@
 
 - ##### Another project using javascript, json and css, called [Earthquakes in the Last_7_Days](https://github.com/SringayKeno/Earthquakes_Last_7_Days) can be found here in Github. The live map showing results can be found [here on a github io page.](https://sringaykeno.github.io/Earthquakes_Last_7_Days/) 
 
-- ##### All my other project work can be seen [here in Github](https://github.com/SringayKeno?tab=repositories)
+- ##### Other project work can be seen [here in Github](https://github.com/SringayKeno?tab=repositories)
 <br/>
 
 
