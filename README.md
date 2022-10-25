@@ -1,11 +1,9 @@
 
 
-
-
 ### Hi, My name is Ryan Koenigs. I am a Data Analyst.
 
 
-##### I currently am working on a machine learning project that is taking a comprehensive look at Sacramento County, California home values. I'm first identifying the top 5 zip codes that are best for investment in 9 different housing categories and then forecasting the home values in those top zip codes for the next 3 years. The SARIMA algorithm is doing the heavy lifting for this project. This project,  [Forecasting Home Prices in Sacramento County](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can be found in link.
+##### I currently am working on a machine learning project that is taking a comprehensive look at Sacramento County, California home values. I'm first identifying the top 5 zip codes that are best for investment in 7 different housing categories and then forecasting the home values in those top zip codes for the next 3 years. The SARIMA algorithm is doing the heavy lifting for this project. This project,  [Forecasting Home Prices in Sacramento County](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can be found in link.
 
 ### Other Projects
 
