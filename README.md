@@ -1,5 +1,6 @@
-[Berk](https://github.com/SringayKeno/SringayKeno/files/10071489/file.pdf)
+<img width="350" alt="![file - Copy-1" src= "https://user-images.githubusercontent.com/102890151/203435804-af7c8b0c-6ad8-4b4a-983f-84ae18d15038.jpg"><img width="350" alt="![certificate-of-completion-for-complete-sql-mastery-1" src= "https://user-images.githubusercontent.com/102890151/203472449-a4d48a2e-7434-47b8-be02-c9ea662a4cbb.jpg">
 
+<br/>
 
 ### Hi, My name is Ryan Koenigs. I am a Data Analyst.
 
@@ -16,7 +17,7 @@
 <br/>
 
 
-### Languages
+### Languages 
 
 <img src="https://img.shields.io/badge/Python-D4AC0D?style=for-the-badge&logo=python&logoColor=blue" style="vertical-align:top; margin:3px" height="20" /><img src="https://img.shields.io/badge/JavaScript-D68910?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="vertical-align:top; margin:3px" height="20" /><img src="https://img.shields.io/badge/json-AF601A?style=for-the-badge&logo=json&logoColor=white" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/HTML5-A93226?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:3px" height="20" />
 
@@ -28,8 +29,7 @@
 
 ### IDE
  
-<img src="https://img.shields.io/badge/Jupyter-CB4335.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/Visual_Studio_Code-A93226?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/Colab-78281F?style=for-the-badge&logo=googlecolab&color=78281F" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/VIM-641E16.svg?&style=for-the-badge&logo=vim&logoColor=white" style="vertical-align:top; margin:3px"  height="20" />
-
+<img src="https://img.shields.io/badge/Jupyter-CB4335.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/Visual_Studio_Code-A93226?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/Colab-78281F?style=for-the-badge&logo=googlecolab&color=78281F" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/VIM-641E16.svg?&style=for-the-badge&logo=vim&logoColor=white" style="vertical-align:top; margin:3px"  height="20" /> 
 ### Database 
 
 <img src="https://img.shields.io/badge/MySQL-2E86C1?style=for-the-badge&logo=mysql&logoColor=white" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/PostgreSQL-2471A3?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/MongoDB-1B4F72?style=for-the-badge&logo=mongodb&logoColor=white" style="vertical-align:top; margin:3px"  height="20" />
