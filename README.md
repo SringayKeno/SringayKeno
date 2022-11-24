@@ -2,16 +2,20 @@
 
 <br/>
 
-### Hi, My name is Ryan Koenigs. I am a Data Analyst.
+### <p align="center">Hi, My name is Ryan Koenigs. I am a Data Analyst.</p>
 
 
-##### I currently am working on a machine learning project that is taking a comprehensive look at Sacramento County, California home values. I'm first identifying the top 5 zip codes that are best for investment in 7 different housing categories and then forecasting the home values in those top zip codes for the next 3 years. The SARIMA algorithm is doing the heavy lifting for this project. This project,  [Forecasting Home Prices in Sacramento County](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can be found in link.
+##### <img align="right" width="125" height="65" alt="187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963 - Copy" src="https://user-images.githubusercontent.com/102890151/203668782-805aec21-0fcc-4c5d-987c-b3122d97be12.png" /> I currently am working on a machine learning project that is taking a comprehensive look at Sacramento County, California home values. I'm first identifying the top 5 zip codes that are best for investment in 7 different housing categories and then forecasting the home values in those top zip codes for the next 3 years. The SARIMA algorithm is doing the heavy lifting for this project. This project,  [Forecasting Home Prices in Sacramento County](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can be found in link. Nov 2022
+
 
 ### Other Projects
 
-- ##### [Housing Value Prediction with Random Forest Regressor](https://github.com/SringayKeno/Real_Estate). I collaborated with several others on a similar project here in Github. This project additionally looked at what features were important in predicting home values.
+- ##### <img align="right" width="125" height="65" alt="12" src="https://user-images.githubusercontent.com/102890151/203672046-48a97587-e460-4a41-aa59-116fac5ac39d.jpg" />[Housing Value Prediction with Random Forest Regressor](https://github.com/SringayKeno/Real_Estate). I collaborate with several others on this analysis to explore mid-tier housing values and inventory in the United States. Additionally, the analysis looked at what features were important in predicting home values. July 2022
+<br/>
 
-- ##### Another project using javascript, json and css, called [Earthquakes in the Last 7 Days](https://github.com/SringayKeno/Earthquakes_Last_7_Days) can be found [here in Github](https://github.com/SringayKeno/Earthquakes_Last_7_Day). A live map showing the results can be found [here on a github io page.](https://sringaykeno.github.io/Earthquakes_Last_7_Days/) 
+- ##### <img align="right" width="125" height="65" alt="" src="https://user-images.githubusercontent.com/102890151/203675669-fd101bf3-9a1b-4dbd-8d4f-20e6917a6a8f.png" /> Another project using javascript, json and css, called [Earthquakes in the Last 7 Days](https://github.com/SringayKeno/Earthquakes_Last_7_Days) can be found [here in Github](https://github.com/SringayKeno/Earthquakes_Last_7_Day). A live map showing the results can be found [here on a github io page.](https://sringaykeno.github.io/Earthquakes_Last_7_Days/) June 2022
+
+<br/>
 
 - ##### Other project work can be seen [here in Github](https://github.com/SringayKeno?tab=repositories)
 <br/>
