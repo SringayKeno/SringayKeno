@@ -44,16 +44,10 @@
 
 <p align="center"><img src="https://img.shields.io/badge/MySQL-2E86C1?style=for-the-badge&logo=mysql&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/PostgreSQL-2471A3?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/MongoDB-1B4F72?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />
 
-#### <p align="center"> Analytics
 
-<p align="center"><p align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />
 
- #### <p align="center"> Cloud
- 
- <p align="center"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />
- 
- #### <p align="center"> Terminal
 
-<p align="center"><img src="https://img.shields.io/badge/GIT-7D3C98?style=for-the-badge&logo=git&logoColor=white&style=plastic" style="vertical-align:top; margin:1px"  height="20" />
+ #### &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Analytics  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;   Cloud  &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Terminal</p>
+ <p align="center"><p align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />  &#160;&#160;         <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />  &#160;&#160;        <img src="https://img.shields.io/badge/GIT-7D3C98?style=for-the-badge&logo=git&logoColor=white&style=plastic" style="vertical-align:top; margin:1px"  height="20"</p>
  
 
