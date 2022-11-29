@@ -51,7 +51,7 @@
 
  ####  <p align="center"> Analytics  
   
-  <p align="center"><p align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/Power BI-D68910?style=Color=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />
+  <p align="center"><p align="center"><img src="https://img.shields.io/badge/Tableau-CA6F1E?style=for-the-badge&logo=Tableau&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/Power BI-BA4A00?style=Color=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />
           
  #### <p align="center"> Cloud 
  
