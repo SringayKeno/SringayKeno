@@ -1,4 +1,4 @@
-<p align="center"><img width="300" alt="![certificate-of-completion-for-complete-sql-mastery-1" src= "https://user-images.githubusercontent.com/102890151/203472449-a4d48a2e-7434-47b8-be02-c9ea662a4cbb.jpg"><img width="300" alt="![file - Copy-1" src= "https://user-images.githubusercontent.com/102890151/203435804-af7c8b0c-6ad8-4b4a-983f-84ae18d15038.jpg"><img width="250" alt="![Coursera 9L8E6Y2WTYGQ-1"] src="https://user-images.githubusercontent.com/102890151/204391137-38c7fcbb-d0b3-43e0-bddc-f533e39573e3.jpg">
+<p align="center"><img width="250" alt="![certificate-of-completion-for-complete-sql-mastery-1" src= "https://user-images.githubusercontent.com/102890151/203472449-a4d48a2e-7434-47b8-be02-c9ea662a4cbb.jpg"><img width="250" alt="![file - Copy-1" src= "https://user-images.githubusercontent.com/102890151/203435804-af7c8b0c-6ad8-4b4a-983f-84ae18d15038.jpg"><img width="200" alt="![Coursera 9L8E6Y2WTYGQ-1"] src="https://user-images.githubusercontent.com/102890151/204391137-38c7fcbb-d0b3-43e0-bddc-f533e39573e3.jpg">
 
 <br/>
  <br/>
