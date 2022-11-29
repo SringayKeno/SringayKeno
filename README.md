@@ -1,6 +1,6 @@
 <p align="center"><img width="250" alt="![certificate-of-completion-for-complete-sql-mastery-1" src= "https://user-images.githubusercontent.com/102890151/203472449-a4d48a2e-7434-47b8-be02-c9ea662a4cbb.jpg"><img width="250" alt="![file - Copy-1" src= "https://user-images.githubusercontent.com/102890151/203435804-af7c8b0c-6ad8-4b4a-983f-84ae18d15038.jpg"><img width="200" alt="![Coursera 9L8E6Y2WTYGQ-1"] src="https://user-images.githubusercontent.com/102890151/204391137-38c7fcbb-d0b3-43e0-bddc-f533e39573e3.jpg">
  
- ###### <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL Mastery 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Analytics Bootcamp 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Processing Data Power BI 2022</p>
+
 
  <br/>
 <br/>
@@ -51,8 +51,7 @@
 
  ####  <p align="center"> Analytics  
   
-  <p align="center"><p align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />
-<img src="https://img.shields.io/badge/Power BI-D68910?style=Color=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />
+  <p align="center"><p align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" /><img src="https://img.shields.io/badge/Power BI-D68910?style=Color=white&style=plastic" style="vertical-align:top; margin:3px"  height="20" />
           
  #### <p align="center"> Cloud 
  
