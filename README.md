@@ -62,8 +62,9 @@
   
  <p align="center"><img src="https://img.shields.io/badge/GIT-7D3C98?style=for-the-badge&logo=git&logoColor=white&style=plastic" style="vertical-align:top; margin:1px"  height="20"</p>
   
-
-<a href="#top">Back to top</a>
+<br/>
+<br/>  
+<p align="center"><a href="#top">Back to top</a></p>
   
   
  
