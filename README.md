@@ -5,9 +5,9 @@
 <br/>
 <br/>
  
-### <p align="center">Hi, My name is Ryan Koenigs. I am a Data Analyst.</p>
+### <p align="center">Hi, My name is Ryan Koenigs.  B.A of Economics - University of Wisconsin, Milwaukee. I’m a curious, analytical, and detail oriented person. I have experience in sales and data analytics. I enjoy making data-driven decisions using SQL, Python, PowerBI and Tableau</p>
 
-##### <p align="center">I am currently working on forecasting US city and metro rankings for the 2030 census. This analysis will be completed in Jan 2023.<p/>
+##### <p align="center">I am currently working on forecasting US city and metro rankings for the 2030 census. This analysis will be completed in March 2023.<p/>
 <br/>
 
 ### <p align="center">Other Projects</p>
