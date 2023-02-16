@@ -7,12 +7,12 @@
  
 ### <p align="center">Hi, my name is Ryan Koenigs.  B.A of Economics - University of Wisconsin, Milwaukee. I’m a curious, analytical, and detail-oriented person. I have Senior Sales experience. I enjoy making data-driven decisions using SQL, Python, PowerBI and Tableau</p>
 
-#### <p align="center">I am currently working on forecasting US city and metro rankings for the 2030 census. This analysis will be completed in March 2023.<p/>
+#### <p align="center"> _I am currently working on forecasting US city and metro rankings for the 2030 census. This analysis will be completed in March 2023._<p/>
 <br/>
 
 ### <p align="center">Analyses and Projects</p>
 
-- #### <img align="right" width="135" height="75" alt="187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963 - Copy" src="https://user-images.githubusercontent.com/102890151/203668782-805aec21-0fcc-4c5d-987c-b3122d97be12.png" /> A machine learning project that takes a comprehensive look at Sacramento County, California home values. First identifying the top 5 zip codes that are best for investment in 7 different housing categories and then forecasting the home values in those zip codes for the next 3 years. The SARIMA algorithm did the heavy lifting for this project. This project,  [Forecasting Home Prices in Sacramento County](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can be found in link. Sept-Nov 2022. _SARIMA Algorithm, Python, Excel_
+- #### <img align="right" width="135" height="75" alt="187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963 - Copy" src="https://user-images.githubusercontent.com/102890151/203668782-805aec21-0fcc-4c5d-987c-b3122d97be12.png" /> [Forecasting Home Prices in Sacramento County](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) is a machine learning analysis that takes a comprehensive look at Sacramento County, California home values. First identifying the top 5 zip codes that are best for investment in 7 different housing categories and then forecasting the home values in those zip codes for the next 3 years. The SARIMA algorithm did the heavy lifting for this project. Sept-Nov 2022. _SARIMA Algorithm, Python, Excel_
 
 <br/>
 
