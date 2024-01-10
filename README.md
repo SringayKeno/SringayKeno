@@ -7,7 +7,7 @@
  
 ### <p align="center">Hi, my name is Ryan Koenigs.  B.A of Economics - University of Wisconsin, Milwaukee. I’m a curious, analytical, and detail-oriented person. I have Senior Sales experience. I enjoy making data-driven decisions using SQL, Python, PowerBI and Tableau</p>
 
-#### <p align="center"> _I am currently working on forecasting US city and metro rankings for the 2030 census. This analysis will be completed in Sept. 2023._<p/>
+#### <p align="center"> _I am currently working on forecasting US city and metro rankings for the 2030 census. This analysis will be completed in June 2024._<p/>
 <br/>
 
 ### <p align="center">Analyses and Projects</p>
